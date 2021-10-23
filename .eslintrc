@@ -1,7 +1,8 @@
 {
   "extends": [
     "@raing3/eslint-config",
-    "@raing3/eslint-config/typescript"
+    "@raing3/eslint-config/typescript",
+    "@raing3/eslint-config/jest"
   ],
   "parser": "@typescript-eslint/parser",
   "parserOptions": {

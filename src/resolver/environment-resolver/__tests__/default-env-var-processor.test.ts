@@ -60,7 +60,7 @@ describe('getEnv', () => {
         const getEnv = jest.fn(() => 'resolved value');
         const actual = processor.getEnv('default', 'fallback value:TEST_ENV', getEnv);
 
-        expect(actual).toStrictEqual('resolved value');
+        expect(actual).toBe('resolved value');
         expect(getEnv).toBeCalledWith('TEST_ENV', 'fallback value');
     });
 
