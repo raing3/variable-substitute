@@ -1,6 +1,6 @@
 {
   "name": "@raing3/variable-substitute",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "description": "Variable substitution package",
   "author": "Richard Ainger <raing3@gmail.com>",
   "license": "MIT",
