@@ -1,4 +1,4 @@
-# Variable substitute [![npm-version](https://img.shields.io/npm/v/@raing3/variable-substitute.svg)](https://www.npmjs.com/package/@raing3/variable-substitute)
+# Variable substitute [![npm-version](https://img.shields.io/npm/v/@raing3/variable-substitute.svg)](https://www.npmjs.com/package/@raing3/variable-substitute) [![CI](https://github.com/raing3/variable-substituter/actions/workflows/ci.yml/badge.svg)](https://github.com/raing3/variable-substituter/actions/workflows/ci.yml)
 Replaces placeholder values in a variable, including data nested in objects and arrays.
 
 Features:
